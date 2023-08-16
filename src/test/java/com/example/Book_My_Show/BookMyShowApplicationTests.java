@@ -1,4 +1,4 @@
-package com.example.Book.my.show.application;
+package com.example.Book_My_Show;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
